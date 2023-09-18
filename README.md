@@ -4,7 +4,8 @@
     Desafio proposto com base no vídeo de lançamento do iPhone conforme link abaixo:
     
 [![Título do Vídeo](https://img.youtube.com/vi/9ou608QQRq8/0.jpg)](https://www.youtube.com/watch?v=9ou608QQRq8)
-    
+
+<a href = "https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo">LINK DO DESAFIO DIO</a> 
 <h2> Comportamentos: </h2>
 <ul>
     <li>Repodutor Musicial: tocar, pausar, selecionarMusica</li>
