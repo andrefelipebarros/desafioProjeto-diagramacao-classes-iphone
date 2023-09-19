@@ -1,8 +1,9 @@
 # Desafio: Orientação a Objetos e UML: (Diagramação de Classes do iPhone)
 <h2> Sobre: </h2>
-    Desenvolvi um UML de diagramação de classes com a proposta de representar os papéis do iPhone de: Reprodutor Musicial, Aparelho Telefônico e Navegador na Internet.
-    Desafio proposto com base no vídeo de lançamento do iPhone conforme link abaixo:
-    
+Desenvolvi um UML de diagramação de classes com a proposta de representar os papéis do iPhone de: Reprodutor Musicial, Aparelho Telefônico e Navegador na Internet.
+Desafio proposto com base no vídeo de lançamento do iPhone conforme link abaixo:
+<br></br>
+
 [![Título do Vídeo](https://img.youtube.com/vi/9ou608QQRq8/0.jpg)](https://www.youtube.com/watch?v=9ou608QQRq8)
 
 <a href = "https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo">LINK DO DESAFIO DIO</a> 
